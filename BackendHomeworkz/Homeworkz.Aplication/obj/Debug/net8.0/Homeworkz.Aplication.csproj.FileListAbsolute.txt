@@ -1,0 +1,12 @@
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\bin\Debug\net8.0\Homeworkz.Aplication.deps.json
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\bin\Debug\net8.0\Homeworkz.Aplication.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\bin\Debug\net8.0\Homeworkz.Aplication.pdb
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\Homeworkz.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\Homeworkz.Aplication.AssemblyInfoInputs.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\Homeworkz.Aplication.AssemblyInfo.cs
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\Homeworkz.Aplication.csproj.CoreCompileInputs.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\Homeworkz.Aplication.sourcelink.json
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\Homeworkz.Aplication.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\refint\Homeworkz.Aplication.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\Homeworkz.Aplication.pdb
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Aplication\obj\Debug\net8.0\ref\Homeworkz.Aplication.dll

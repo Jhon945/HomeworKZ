@@ -1,0 +1,15 @@
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\bin\Debug\net8.0\Homeworkz.Domain.deps.json
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\bin\Debug\net8.0\Homeworkz.Domain.runtimeconfig.json
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\bin\Debug\net8.0\Homeworkz.Domain.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\bin\Debug\net8.0\Homeworkz.Domain.pdb
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.csproj.AssemblyReference.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.AssemblyInfoInputs.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.AssemblyInfo.cs
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.csproj.CoreCompileInputs.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.sourcelink.json
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\refint\Homeworkz.Domain.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.pdb
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\Homeworkz.Domain.genruntimeconfig.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homeworkz.Domain\obj\Debug\net8.0\ref\Homeworkz.Domain.dll

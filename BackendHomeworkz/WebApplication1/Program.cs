@@ -1,12 +1,19 @@
-﻿using System;
+﻿using Homeworkz.Infraestructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi;
-using Homeworkz.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// MVC + Controllers + Swagger
-builder.Services.AddControllersWithViews();
+// Configurar DbContext y migraciones en Infrastructure
+builder.Services.AddDbContext<HomeworKZDbContext>(options =>
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        sqlOptions => sqlOptions.MigrationsAssembly("Homeworkz.Infraestructure")
+    )
+);
+
+// Solo API Controllers + Swagger
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -18,13 +25,9 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-// Add connection string
-builder.Services.AddDbContext<HomeworKZDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
 var app = builder.Build();
 
-// Swagger configuration
+// Swagger
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -34,22 +37,7 @@ if (app.Environment.IsDevelopment())
     });
 }
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
-}
-
 app.UseHttpsRedirection();
-app.UseStaticFiles();
-app.UseRouting();
 app.UseAuthorization();
-
 app.MapControllers();
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
-
 app.Run();

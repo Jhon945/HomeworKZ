@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.11.35219.272
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11205.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworkz", "WebApplication1\Homeworkz.csproj", "{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworkz.Api", "WebApplication1\Homeworkz.Api.csproj", "{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworkz.Domain", "Homeworkz.Domain\Homeworkz.Domain.csproj", "{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworkz.Infraestructure", "Homewrokz.Infraestructure\Homeworkz.Infraestructure.csproj", "{B5795261-F83D-4223-980A-32A508D0980C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworkz.Aplication", "Homeworkz.Aplication\Homeworkz.Aplication.csproj", "{AC5C3C53-2292-4B37-8812-185D8ADDDA31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homeworkz.Tests", "Homeworkz.Tests\Homeworkz.Tests.csproj", "{6973E7F3-0398-48E1-850E-429CC4DD7675}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5795261-F83D-4223-980A-32A508D0980C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5795261-F83D-4223-980A-32A508D0980C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5795261-F83D-4223-980A-32A508D0980C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5795261-F83D-4223-980A-32A508D0980C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5C3C53-2292-4B37-8812-185D8ADDDA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5C3C53-2292-4B37-8812-185D8ADDDA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5C3C53-2292-4B37-8812-185D8ADDDA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5C3C53-2292-4B37-8812-185D8ADDDA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6973E7F3-0398-48E1-850E-429CC4DD7675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6973E7F3-0398-48E1-850E-429CC4DD7675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6973E7F3-0398-48E1-850E-429CC4DD7675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6973E7F3-0398-48E1-850E-429CC4DD7675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

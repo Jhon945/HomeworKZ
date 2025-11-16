@@ -1,0 +1,16 @@
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\bin\Debug\net8.0\Homewrokz.Infraestructure.deps.json
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\bin\Debug\net8.0\Homewrokz.Infraestructure.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\bin\Debug\net8.0\Homewrokz.Infraestructure.pdb
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\bin\Debug\net8.0\Homeworkz.Domain.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\bin\Debug\net8.0\Homeworkz.Domain.pdb
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrokz.Infraestructure.csproj.AssemblyReference.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrokz.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrokz.Infraestructure.AssemblyInfoInputs.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrokz.Infraestructure.AssemblyInfo.cs
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrokz.Infraestructure.csproj.CoreCompileInputs.cache
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrokz.Infraestructure.sourcelink.json
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrok.4BAE0B1D.Up2Date
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrokz.Infraestructure.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\refint\Homewrokz.Infraestructure.dll
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\Homewrokz.Infraestructure.pdb
+C:\repos\HomeworKZ\BackendHomeworkz\Homewrokz.Infraestructure\obj\Debug\net8.0\ref\Homewrokz.Infraestructure.dll
