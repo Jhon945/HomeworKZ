@@ -47,7 +47,6 @@ C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.Comp
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
@@ -128,11 +127,6 @@ C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\Homeworkz.R
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\Homeworkz.RazorAssemblyInfo.cs
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
-C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.Homeworkz.Microsoft.AspNetCore.StaticWebAssets.props
-C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.Homeworkz.props
-C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Homeworkz.props
-C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Homeworkz.props
-C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\Homeworkz.styles.css
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\Homeworkz.bundle.scp.css
@@ -146,5 +140,14 @@ C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\Microsoft.O
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\System.Text.Json.dll
 C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\Homeworkz.MvcApplicationPartsAssemblyInfo.cs
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\bin\Debug\net8.0\Homeworkz.staticwebassets.endpoints.json
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\Homeworkz.sourcelink.json
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\swae.build.ex.cache
+C:\repos\HomeworKZ\BackendHomeworkz\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

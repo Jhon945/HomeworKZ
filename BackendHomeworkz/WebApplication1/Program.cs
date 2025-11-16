@@ -1,8 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi; // <-- este 'using' es importante
-using Homeworkz.Data;
 using Microsoft.OpenApi;
+using Homeworkz.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,7 +19,7 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 // Add connection string
-builder.Services.AddDbContext<AppDbContext>(options =>
+builder.Services.AddDbContext<HomeworKZDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
@@ -47,7 +46,6 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 
-// --- 🔥 Esta línea es la clave para Swagger y APIs ---
 app.MapControllers();
 
 app.MapControllerRoute(

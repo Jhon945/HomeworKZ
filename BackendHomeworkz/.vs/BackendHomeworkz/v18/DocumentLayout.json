@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\webapplication1\\models\\taskcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|solutionrelative:webapplication1\\models\\taskcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\webapplication1\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|solutionrelative:webapplication1\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\webapplication1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|solutionrelative:webapplication1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\webapplication1\\models\\tagstasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|solutionrelative:webapplication1\\models\\tagstasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\webapplication1\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.csproj|solutionrelative:webapplication1\\models\\tags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskComments.cs",
+              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\TaskComments.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\TaskComments.cs",
+              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\TaskComments.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\TaskComments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:53:54.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TagsTasks.cs",
+              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\TagsTasks.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\TagsTasks.cs",
+              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\TagsTasks.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\TagsTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:11:35.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Tasks.cs",
+              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\Tasks.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Tasks.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T00:09:49.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Users.cs",
+              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\Users.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Users.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:30:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tags.cs",
+              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\Tags.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Tags.cs",
+              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Models\\Tags.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Tags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T01:03:47.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
