@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.Tags
 {
-    internal class TagsGetDto
+    public class TagsGetDto
     {
 
         public int Id { get; set; }

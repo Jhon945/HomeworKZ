@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.Users
 {
-    internal class UsersLoginDto
+    public class UsersLoginDto
     {
 
         [Required]

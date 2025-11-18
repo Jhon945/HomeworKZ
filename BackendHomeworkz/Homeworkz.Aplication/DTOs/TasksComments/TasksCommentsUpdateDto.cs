@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.TasksComments
 {
-    internal class TasksCommentsUpdateDto
+    public class TasksCommentsUpdateDto
     {
 
         [Required]

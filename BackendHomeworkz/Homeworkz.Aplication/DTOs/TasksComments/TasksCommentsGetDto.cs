@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.TasksComments
 {
-    internal class TasksCommentsGetDto
+    public class TasksCommentsGetDto
     {
 
         public int Id { get; set; }

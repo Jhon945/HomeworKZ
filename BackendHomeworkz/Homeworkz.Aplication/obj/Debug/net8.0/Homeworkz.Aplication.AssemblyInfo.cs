@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homeworkz.Aplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee68c7a4434317beeead300e7fef1f4c5f067824")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fee1f9c75d979e09c0c3e7a9c8d34f8cb70253c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homeworkz.Aplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homeworkz.Aplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

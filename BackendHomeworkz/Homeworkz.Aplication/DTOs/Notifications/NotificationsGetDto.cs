@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.Notifications
 {
-    internal class NotificationsGetDto
+    public class NotificationsGetDto
     {
 
         public int Id { get; set; }

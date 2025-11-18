@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.UsersRoles
 {
-    internal class UsersRolesDto
+    public class UsersRolesDto
     {
 
         public int UserId { get; set; }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.TasksAttachments
 {
-    internal class TasksAttachmentsGetDto
+    public class TasksAttachmentsGetDto
     {
 
         public string FileName { get; set; } = string.Empty;

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.Tasks
 {
-    internal class TasksGetByProjectId
+    public class TasksGetDto
     {
 
         public int Id { get; set; }

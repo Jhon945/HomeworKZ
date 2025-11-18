@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.Tasks
 {
-    internal class TasksCreateDto
+    public class TasksCreateDto
     {
 
         [Required, StringLength(250)]

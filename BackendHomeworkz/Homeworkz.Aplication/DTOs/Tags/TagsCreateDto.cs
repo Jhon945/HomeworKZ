@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.Tags
 {
-    internal class TagsCreateDto
+    public class TagsCreateDto
     {
 
         [Required]

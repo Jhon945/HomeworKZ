@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.Users
 {
-    internal class UsersCreateDto
+    public class UsersCreateDto
     {
 
         [Required, StringLength(150)]

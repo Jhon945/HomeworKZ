@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.TasksAttachments
 {
-    internal class TasksAttachmentsCreateDto
+    public class TasksAttachmentsCreateDto
     {
 
         [Required]

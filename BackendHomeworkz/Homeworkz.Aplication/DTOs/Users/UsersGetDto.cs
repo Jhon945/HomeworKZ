@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Homeworkz.Aplication.DTOs.Users
 {
-    internal class UsersGetAllDto
+    public class UsersGetDto
     {
 
         public int Id { get; set; }
