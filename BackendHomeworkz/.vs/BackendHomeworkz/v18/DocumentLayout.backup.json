@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homewrokz.Infraestructure\\Migrations\\20251116191459_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homewrokz.Infraestructure\\Migrations\\20251116191459_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.Api.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FD26DBF-2FD9-4458-9DF3-EDB458A4A8CF}|WebApplication1\\Homeworkz.Api.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5795261-F83D-4223-980A-32A508D0980C}|Homewrokz.Infraestructure\\Homewrokz.Infraestructure.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\homewrokz.infraestructure\\data\\homeworkzdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5795261-F83D-4223-980A-32A508D0980C}|Homewrokz.Infraestructure\\Homewrokz.Infraestructure.csproj|solutionrelative:homewrokz.infraestructure\\data\\homeworkzdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC5C3C53-2292-4B37-8812-185D8ADDDA31}|Homeworkz.Aplication\\Homeworkz.Aplication.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\homeworkz.aplication\\interfaces\\iusersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5C3C53-2292-4B37-8812-185D8ADDDA31}|Homeworkz.Aplication\\Homeworkz.Aplication.csproj|solutionrelative:homeworkz.aplication\\interfaces\\iusersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20251116191459_InitialCreate.cs",
-              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homewrokz.Infraestructure\\Migrations\\20251116191459_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Homewrokz.Infraestructure\\Migrations\\20251116191459_InitialCreate.cs",
-              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homewrokz.Infraestructure\\Migrations\\20251116191459_InitialCreate.cs",
-              "RelativeToolTip": "Homewrokz.Infraestructure\\Migrations\\20251116191459_InitialCreate.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAYwG8AAAAJAAAAAAAAAA==",
+              "Title": "IUsersServices.cs",
+              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homeworkz.Aplication\\Interfaces\\IUsersServices.cs",
+              "RelativeDocumentMoniker": "Homeworkz.Aplication\\Interfaces\\IUsersServices.cs",
+              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homeworkz.Aplication\\Interfaces\\IUsersServices.cs",
+              "RelativeToolTip": "Homeworkz.Aplication\\Interfaces\\IUsersServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T19:15:00.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T18:40:56.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeworkzDbContext.cs",
-              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homewrokz.Infraestructure\\Data\\HomeworkzDbContext.cs",
-              "RelativeDocumentMoniker": "Homewrokz.Infraestructure\\Data\\HomeworkzDbContext.cs",
-              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homewrokz.Infraestructure\\Data\\HomeworkzDbContext.cs",
-              "RelativeToolTip": "Homewrokz.Infraestructure\\Data\\HomeworkzDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T18:32:15.357Z",
+              "WhenOpened": "2025-11-17T21:31:51.144Z",
               "EditorCaption": ""
             }
           ]
