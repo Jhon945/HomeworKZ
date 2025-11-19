@@ -14,7 +14,7 @@ namespace Homeworkz.Domain.Interfaces
 
         Task<TaskComments?> GetByIdAsync(int id);
 
-        Task<List<TaskComments>> GetByProjectIdAsync(int projectId);
+        Task<List<TaskComments>> GetByTaskIdAsync(int taskId);
 
         Task<List<TaskComments>> GetByUserIdAsync(int userId);
 

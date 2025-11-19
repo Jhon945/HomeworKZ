@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homeworkz.Infraestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a157998251bd708ee3a6d4cd507b287714056593")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+133a4307b9ee8a0b51e0531c50eb9ff43d93712a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homeworkz.Infraestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homeworkz.Infraestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

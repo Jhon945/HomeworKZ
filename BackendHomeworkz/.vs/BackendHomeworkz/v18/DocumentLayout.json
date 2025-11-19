@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}|Homeworkz.Domain\\Homeworkz.Domain.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\homeworkz.domain\\interfaces\\inotificationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}|Homeworkz.Domain\\Homeworkz.Domain.csproj|solutionrelative:homeworkz.domain\\interfaces\\inotificationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}|Homeworkz.Domain\\Homeworkz.Domain.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\homeworkz.domain\\interfaces\\iprojectsmembersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}|Homeworkz.Domain\\Homeworkz.Domain.csproj|solutionrelative:homeworkz.domain\\interfaces\\iprojectsmembersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}|Homeworkz.Domain\\Homeworkz.Domain.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\homeworkz.domain\\interfaces\\iprojectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F6DF8F-5C95-42D2-8DE1-242235CFA32E}|Homeworkz.Domain\\Homeworkz.Domain.csproj|solutionrelative:homeworkz.domain\\interfaces\\iprojectsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5795261-F83D-4223-980A-32A508D0980C}|Homewrokz.Infraestructure\\Homeworkz.Infraestructure.csproj|c:\\repos\\homeworkz\\backendhomeworkz\\homewrokz.infraestructure\\repositories\\notificationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5795261-F83D-4223-980A-32A508D0980C}|Homewrokz.Infraestructure\\Homeworkz.Infraestructure.csproj|solutionrelative:homewrokz.infraestructure\\repositories\\notificationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "INotificationsRepository.cs",
-              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homeworkz.Domain\\Interfaces\\INotificationsRepository.cs",
-              "RelativeDocumentMoniker": "Homeworkz.Domain\\Interfaces\\INotificationsRepository.cs",
-              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homeworkz.Domain\\Interfaces\\INotificationsRepository.cs",
-              "RelativeToolTip": "Homeworkz.Domain\\Interfaces\\INotificationsRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowAkAAAAtAAAAAAAAAA==",
+              "Title": "NotificationsRepository.cs",
+              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homewrokz.Infraestructure\\Repositories\\NotificationsRepository.cs",
+              "RelativeDocumentMoniker": "Homewrokz.Infraestructure\\Repositories\\NotificationsRepository.cs",
+              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homewrokz.Infraestructure\\Repositories\\NotificationsRepository.cs",
+              "RelativeToolTip": "Homewrokz.Infraestructure\\Repositories\\NotificationsRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T04:06:21.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProjectsMembersRepository.cs",
-              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homeworkz.Domain\\Interfaces\\IProjectsMembersRepository.cs",
-              "RelativeDocumentMoniker": "Homeworkz.Domain\\Interfaces\\IProjectsMembersRepository.cs",
-              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homeworkz.Domain\\Interfaces\\IProjectsMembersRepository.cs",
-              "RelativeToolTip": "Homeworkz.Domain\\Interfaces\\IProjectsMembersRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA9wBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T04:01:14.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProjectsRepository.cs",
-              "DocumentMoniker": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homeworkz.Domain\\Interfaces\\IProjectsRepository.cs",
-              "RelativeDocumentMoniker": "Homeworkz.Domain\\Interfaces\\IProjectsRepository.cs",
-              "ToolTip": "C:\\repos\\HomeworKZ\\BackendHomeworkz\\Homeworkz.Domain\\Interfaces\\IProjectsRepository.cs",
-              "RelativeToolTip": "Homeworkz.Domain\\Interfaces\\IProjectsRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T03:56:29.864Z",
+              "WhenOpened": "2025-11-19T18:00:43.774Z",
               "EditorCaption": ""
             }
           ]
