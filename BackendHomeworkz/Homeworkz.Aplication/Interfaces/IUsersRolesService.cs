@@ -8,12 +8,10 @@ using Homeworkz.Aplication.DTOs.UsersRoles;
 
 namespace Homeworkz.Aplication.Interfaces
 {
-    public interface IUserRolesService
+    public interface IUsersRolesService
     {
 
         Task<UsersRolesDto> CreateAsync(UsersRolesDto dto);
-
-        Task<UsersRolesDto> UpdateAsync(UsersRolesDto dto);
 
         Task<bool> DeleteAsync(int id);
 

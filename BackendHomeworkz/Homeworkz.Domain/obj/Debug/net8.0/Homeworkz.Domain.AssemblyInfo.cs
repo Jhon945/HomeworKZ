@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homeworkz.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02b52fe990281e0f64e20aeec081a29f96c37441")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f2862f1e1f30678adc4d9755d72bef0e20e747")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homeworkz.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homeworkz.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
